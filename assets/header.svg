@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Sakaria Ahmed — ideas into code, code into working systems.</title>
+  <desc id="desc">Developer in Oslo with a strong interest in DevOps, Azure and agentic coding. Charcoal, cream and lime portfolio identity.</desc>
+  <rect width="1200" height="430" rx="18" fill="#0c0c0c"/>
+  <rect x="1" y="1" width="1198" height="428" rx="17" fill="none" stroke="#2a2a2a"/>
+  <g fill="none" stroke="#292c22" stroke-width="1">
+    <path d="M880 0v430M960 0v430M1040 0v430M1120 0v430M880 86h320M880 166h320M880 246h320M880 326h320"/>
+  </g>
+  <circle cx="52" cy="49" r="4" fill="#c9fb35"/>
+  <text x="68" y="54" font-family="monospace" font-size="13" letter-spacing="2" fill="#a8a49b">DEVELOPER / OSLO, NORWAY</text>
+  <text x="49" y="167" font-family="Arial, Helvetica, sans-serif" font-size="103" font-weight="900" letter-spacing="-5" fill="#f0ebe3">SAKARIA</text>
+  <text x="49" y="266" font-family="Arial, Helvetica, sans-serif" font-size="103" font-weight="900" letter-spacing="-5" fill="#c9fb35">AHMED</text>
+  <g transform="translate(1000 183)" stroke="#c9fb35" stroke-width="7">
+    <path d="M-57 0h114M0-57V57M-40-40l80 80M-40 40l80-80"/>
+  </g>
+  <text x="1000" y="290" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#a8a49b">BUILD. RUN. LEARN.</text>
+  <path d="M50 311h1100" stroke="#3b3b32"/>
+  <text x="50" y="350" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#f0ebe3">Ideas into code. Code into working systems.</text>
+  <text x="50" y="388" font-family="monospace" font-size="13" letter-spacing="1.8" fill="#c9fb35">DEVOPS  /  AZURE  /  AGENTIC CODING</text>
+  <text x="1150" y="388" text-anchor="end" font-family="monospace" font-size="12" fill="#a8a49b">sakariaahmed.com ↗</text>
+</svg>
